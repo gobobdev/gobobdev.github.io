@@ -1,6 +1,6 @@
 $tempPath = "C:\Program Files\bbzer0\10tweaker\Temp"
 $filename = Join-Path -Path $tempPath -ChildPath "10tweakerSetup.exe"
-$url = "https://github.com/timinside/10tweaker/releases/latest/download/10tweakerSetup.exe"
+$url = "https://github.com/timinside/10tweaker/releases/latest/download/XTweakerSetup.exe"
 
 function Write-Log {
     param (
